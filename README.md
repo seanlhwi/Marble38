@@ -18,3 +18,4 @@ I started to develop this keyboard after watching Joe Scotto's various custom ke
 | EC11 Rotary Encoder | Knob | 3 | $0.99 | [AliExpress](https://www.aliexpress.us/item/3256807905633617.html) |
 | Tenstar RP2040 Zero | Microcontroller | 3 | $2.79 | [AliExpress](https://www.aliexpress.com/ssr/300000512/BundleDeals2) |
 | Soldering Kit | Soldering | 1 | $13.99 | [Amazon](https://www.amazon.com/gp/product/B087767KNW/) |
+<img width="2028" height="1262" alt="image" src="https://github.com/user-attachments/assets/5ee0c5a1-a590-4738-8d38-08404d8674ab" />
