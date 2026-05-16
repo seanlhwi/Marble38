@@ -1,7 +1,7 @@
 
 # Marble38
 A 40percent keyboard with a knob and an acrylic cut out. The name comes from my hopes on printing this with marble filament!
-I started to develop this keyboard after watching Joe Scotto's various custom keyboard videos. I was already interested in keyboards, so it seemed natural to try to create one fully custom.
+I started to develop this keyboard after watching Joe Scotto's various custom keyboard videos. I was already interested in keyboards, so it seemed natural to try to create one fully custom. Some key details encludes a rotary encoder for the knob, an acrylic cutout to show the microcontroller, and a unique case shape that seperates it from the other keyboards. Keeping the keyboard compact was one of my main criterias, so I made a very compact 40 percent layout with an additional layer keeping the other keys that I couldn't fit in the main layer.
 <img width="2241" height="889" alt="image" src="https://github.com/user-attachments/assets/8f4daa57-a355-40f3-98b8-0f1ad8bf0752" />
 <img width="1433" height="515" alt="image" src="https://github.com/user-attachments/assets/7db6e93d-b65d-4f69-bf92-e24286f3b74e" />
 <img width="1910" height="1182" alt="image" src="https://github.com/user-attachments/assets/94f13aa1-52af-41af-9b3c-848a56aa0a30" />
